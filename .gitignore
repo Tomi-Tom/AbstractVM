@@ -1,0 +1,8 @@
+#files
+abstractVM
+test.avm
+
+# folders
+.idea/
+build/
+cmake-build-debug/
